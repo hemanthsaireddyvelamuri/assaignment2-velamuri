@@ -28,4 +28,4 @@ There are many list of items that can be brought for maximum enjoyment in our fa
 
 ***
 
-![My Image](WhatsApp Image 2021-08-25 at 12.34.09 AM.jpeg)
+ ![My Image](mypic.jpg)
