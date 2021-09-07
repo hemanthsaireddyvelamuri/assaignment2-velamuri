@@ -35,7 +35,7 @@ There are many list of items that can be brought for maximum enjoyment in our fa
 (:center:)
 
 | Food | Location | Cost |
-| --- | --- | ---: |
+| :---: | :---: | :---: |
 | Gilebi | Karampudi Road | 10 |
 | Biryani | Gurazala | 210 |
 | Sugarcane Juice | Ambapuram | 15 |
