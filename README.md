@@ -44,5 +44,6 @@ There are many list of items that can be brought for maximum enjoyment in our fa
  ### Pithy Quotes
 
 > The journey of a thousand miles begins with one step. - *Jhon Lennon*
+
 > You must be the change you wish to see in the world. - *Mahathma Gandhi*
 
