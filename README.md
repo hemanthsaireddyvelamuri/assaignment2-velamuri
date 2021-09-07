@@ -47,3 +47,24 @@ There are many list of items that can be brought for maximum enjoyment in our fa
 
 > You must be the change you wish to see in the world. - *Mahathma Gandhi*
 
+***
+### Code Fencing
+
+#### Geometry Convex hull
+
+> Computing the convex hull is a problem in computational geometry. The indices of the points specifying the convex hull of a set of points in two dimensions is given by the command ConvexHull in the Wolfram Language package ComputationalGeometry`
+
+[ Geometry Convex Hull ](https://mathworld.wolfram.com/ConvexHull.html)
+
+  typedef int ftype;  
+  typedef complex<ftype> point;  
+  #define x real  
+  #define y imag  
+  ftype dot(point a, point b) {  
+  return (conj(a) * b).x();  
+  }  
+  ftype cross(point a, point b) {  
+  return (conj(a) * b).y();  
+  }  
+
+  [Code Source](https://cp-algorithms.com/geometry/convex_hull_trick.html) 
