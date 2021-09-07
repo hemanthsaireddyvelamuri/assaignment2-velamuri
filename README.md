@@ -27,3 +27,5 @@ There are many list of items that can be brought for maximum enjoyment in our fa
     * We are having the best swimming ponds maintained by our muncipal corporation for recreation.
 
 ***
+
+![My Image](WhatsApp Image 2021-08-25 at 12.34.09 AM.jpeg)
