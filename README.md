@@ -7,7 +7,7 @@ Creating a new repo for second Lab Assignment
 
 ***
 
-# Directions from Maryville to my favorite place.
+### Directions from Maryville to my favorite place.
 1. Maryville to Kansas Airport.
 2. Kansas Airport to Chicago Airport.
 3. Chicago Airport to Hyderabad Airport.
@@ -40,3 +40,9 @@ There are many list of items that can be brought for maximum enjoyment in our fa
 | Marble Soda | Market | $1 |
 
  ***
+
+ ### Pithy Quotes
+
+> The journey of a thousand miles begins with one step. - *Jhon Lennon*
+> You must be the change you wish to see in the world. - *Mahathma Gandhi*
+
