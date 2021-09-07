@@ -28,4 +28,4 @@ There are many list of items that can be brought for maximum enjoyment in our fa
 
 ***
 
- ![My Image](mypic.jpg)
+ ![My Image](mypic.jpeg)
