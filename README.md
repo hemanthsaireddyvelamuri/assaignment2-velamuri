@@ -34,9 +34,9 @@ There are many list of items that can be brought for maximum enjoyment in our fa
 
 | Food | Location | Cost |
 | :---: | :---: | :---: |
-| Gilebi | Karampudi Road | 10 |
-| Biryani | Gurazala | 210 |
-| Sugarcane Juice | Ambapuram | 15 |
-| Marble Soda | Market | 5 |
+| Gilebi | Karampudi Road | $1 |
+| Biryani | Gurazala | $20 |
+| Sugarcane Juice | Ambapuram | $5 |
+| Marble Soda | Market | $1 |
 
  ***
