@@ -29,5 +29,3 @@ There are many list of items that can be brought for maximum enjoyment in our fa
 ***
 
  ![MyImage](images/mypic.jpeg)
-
-![55562](https://user-images.githubusercontent.com/89224106/132287593-eadfb853-1c82-4db4-918f-a93a88ae4928.png)
