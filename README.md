@@ -7,7 +7,7 @@ Creating a new repo for second Lab Assignment
 
 ***
 
-Directions from Maryville to my favorite place.
+# Directions from Maryville to my favorite place.
 1. Maryville to Kansas Airport.
 2. Kansas Airport to Chicago Airport.
 3. Chicago Airport to Hyderabad Airport.
@@ -29,3 +29,16 @@ There are many list of items that can be brought for maximum enjoyment in our fa
 ***
 
  ![MyImage](images/55562.png)
+
+ ***
+
+(:center:)
+
+| Food | Location | Cost |
+| --- | --- | ---: |
+| Gilebi | Karampudi Road | 10 |
+| Biryani | Gurazala | 210 |
+| Sugarcane Juice | Ambapuram | 15 |
+| Marble Soda | Market | 5 |
+
+ ***
