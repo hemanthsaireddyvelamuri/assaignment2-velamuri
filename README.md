@@ -73,4 +73,4 @@ There are many list of items that can be brought for maximum enjoyment in our fa
     return (conj(a) * b).y();  
     }  
 
-  [Code Source](https://cp-algorithms.com/geometry/convex_hull_trick.html) 
+  [Click here to view the above texted code](https://cp-algorithms.com/geometry/convex_hull_trick.html) 
