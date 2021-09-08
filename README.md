@@ -3,7 +3,7 @@ Creating a new repo for second Lab Assignment
  # Velamuri Hemanth Sai Reddy 
  ###### Ambapuram
 
- Ambapuram, it is my **birthplace**. It is a small village with peaceful environment.**My childhood is comletely brought up in my village**, most of the people in my village are our relatives and they take care of me very well.
+ Ambapuram, it is my **birthplace**. It is a small village with peaceful environment.**My childhood is completely brought up in my village**, most of the people in my village are our relatives and they take care of me very well.
 
 ***
 
@@ -17,14 +17,15 @@ Creating a new repo for second Lab Assignment
 
 There are many list of items that can be brought for maximum enjoyment in our favorite place.
 * Sports kits.
-    * Cricket is the most played game in my village by most of the peolpe.
-    * Grouping a bunch of people we play tournaments and enjoy as much as possible.
-    * We also plan Batminton tournaments which would be the most exited one.
+    * Cricket 
+    * Volleyball
+    * Badminton
 * Food items.
-    * Biriyani is the best food in our village.
-    * We cook our own biriyani in open fields and will have group lunch.
-* Swimming spots.
-    * We are having the best swimming ponds maintained by our muncipal corporation for recreation.
+    * Biriyani 
+    * Mirchi Bajji
+    * Maalpuri
+* Camera
+* Friends and Family
 
 ***
 
