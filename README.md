@@ -35,7 +35,7 @@ There are many list of items that can be brought for maximum enjoyment in our fa
 
 ***
 
- ***
+### Following tables represent the famous food and beverages, there location alnong with there prices at my favorite place.  
 
 | Food | Location | Cost |
 | :---: | :---: | :---: |
