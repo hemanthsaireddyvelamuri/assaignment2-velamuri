@@ -60,7 +60,7 @@ There are many list of items that can be brought for maximum enjoyment in our fa
 
 > Computing the convex hull is a problem in computational geometry. The indices of the points specifying the convex hull of a set of points in two dimensions is given by the command ConvexHull in the Wolfram Language package ComputationalGeometry`
 
-[ Geometry Convex Hull ](https://mathworld.wolfram.com/ConvexHull.html)
+[ Click here to find more info about Geometry Convex Hull ](https://mathworld.wolfram.com/ConvexHull.html)
 
     typedef int ftype;  
     typedef complex<ftype> point;  
